@@ -342,7 +342,7 @@ cat deployment_report.json
 | **Vanity** | Cabinet installation | Low | €180-300 |
 | **Electrical** | Wiring and fixtures | High | €35-60 |
 
-## 🌍 Supported Cities
+## Supported Cities
 
 | City | Multiplier | Description |
 |------|------------|-------------|
@@ -564,11 +564,11 @@ The Donizo Smart Bathroom Pricing Engine is now **100% complete and production-r
 
 ---
 
-## 📄 License
+## License
 
 This project is proprietary software developed by Donizo for internal use and client projects.
 
-## 📞 Support
+## Support
 
 For technical support or business inquiries:
 - **Email**: support@donizo.com

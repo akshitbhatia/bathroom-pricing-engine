@@ -23,7 +23,7 @@ try:
     from pricing_engine import SmartPricingEngine
 except ImportError as e:
     logger.error(f"Failed to import pricing engine: {e}")
-            print("Error: Could not import pricing engine. Please check your installation.")
+    print("Error: Could not import pricing engine. Please check your installation.")
     sys.exit(1)
 
 
@@ -44,7 +44,7 @@ def print_help():
     print("  info               - Show system information")
     print("  help               - Show this help message")
     print("  version            - Show version information")
-            print("\nExamples:")
+    print("\nExamples:")
     print("  python3 cli.py quote '4m² bathroom renovation in Paris'")
     print("  python3 cli.py interactive")
     print("  python3 cli.py demo")
