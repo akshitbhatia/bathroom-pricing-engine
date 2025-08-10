@@ -1,0 +1,28 @@
+# Donizo Smart Bathroom Pricing Engine
+# Requirements file for external dependencies
+
+# Core Python version requirement
+# Python 3.8+ required for type hints and modern features
+
+# No external packages required - pure Python standard library
+# All functionality implemented using built-in modules:
+# - json: JSON processing
+# - re: Regular expressions for transcript parsing
+# - datetime: Timestamp generation
+# - pathlib: File path handling
+# - typing: Type hints
+# - unittest: Testing framework
+# - math: Mathematical calculations
+
+# Optional packages for enhanced functionality (future use):
+# pytest>=7.0.0          # Enhanced testing framework
+# pandas>=1.5.0          # Data analysis and CSV processing
+# requests>=2.28.0       # HTTP requests for API integration
+# numpy>=1.24.0          # Numerical computing for ML features
+# scikit-learn>=1.2.0    # Machine learning for price optimization
+
+# Development dependencies (optional):
+# black>=22.0.0          # Code formatting
+# flake8>=5.0.0          # Linting
+# mypy>=1.0.0            # Type checking
+# pre-commit>=2.20.0     # Git hooks for code quality 

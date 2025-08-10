@@ -1,0 +1,79 @@
+{
+  "quote_id": "DQ20250810005004",
+  "generated_at": "2025-08-10T00:50:04.099053",
+  "client_requirements": {
+    "bathroom_size": 4.0,
+    "location": "marseille",
+    "tasks": [
+      "tiles",
+      "plumbing",
+      "painting",
+      "flooring",
+      "vanity"
+    ],
+    "budget_conscious": true,
+    "original_transcript": "Client wants to renovate a small 4m² bathroom. They'll remove the old tiles, redo the plumbing for the shower, replace the toilet, install a vanity, repaint the walls, and lay new ceramic floor tiles. Budget-conscious. Located in Marseille."
+  },
+  "pricing_breakdown": {
+    "tasks": [
+      {
+        "task_type": "tiles",
+        "materials": 820.8,
+        "labor": 2317.5,
+        "estimated_duration": 51.5,
+        "vat_rate": 0.2,
+        "city_adjustment": 1.0
+      },
+      {
+        "task_type": "plumbing",
+        "materials": 747.75,
+        "labor": 990.0,
+        "estimated_duration": 18.0,
+        "vat_rate": 0.2,
+        "city_adjustment": 1.0
+      },
+      {
+        "task_type": "painting",
+        "materials": 342.72,
+        "labor": 290.5,
+        "estimated_duration": 8.3,
+        "vat_rate": 0.2,
+        "city_adjustment": 1.0
+      },
+      {
+        "task_type": "flooring",
+        "materials": 125.44,
+        "labor": 408.0,
+        "estimated_duration": 10.2,
+        "vat_rate": 0.2,
+        "city_adjustment": 1.0
+      },
+      {
+        "task_type": "vanity",
+        "materials": 220.0,
+        "labor": 210.0,
+        "estimated_duration": 5.0,
+        "vat_rate": 0.2,
+        "city_adjustment": 1.0
+      }
+    ],
+    "labor_total": 4216.0,
+    "materials_total": 2256.71,
+    "vat_amount": 1294.54,
+    "subtotal": 6472.71,
+    "final_price": 9320.699999999999
+  },
+  "business_metrics": {
+    "margin_percentage": 43.999962921249356,
+    "city_multiplier": 1.0,
+    "confidence_score": 80.1,
+    "estimated_duration": 93.0
+  },
+  "metadata": {
+    "engine_version": "1.0.0",
+    "pricing_model": "modular_engine_v1",
+    "confidence_flags": [
+      "suspiciously_high"
+    ]
+  }
+}

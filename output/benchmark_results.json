@@ -1,0 +1,108 @@
+{
+  "total_tests": 5,
+  "successful_tests": 5,
+  "failed_tests": 0,
+  "success_rate": 1.0,
+  "total_time": 0.0008230209350585938,
+  "avg_processing_time": 0.00015625953674316406,
+  "avg_validation_score": 1.0,
+  "avg_confidence": 77.46,
+  "avg_price": 9647.366750000001,
+  "results": [
+    {
+      "scenario_name": "Small Budget Bathroom",
+      "transcript": "2m² basic bathroom renovation with painting and vanity in Nantes",
+      "processing_time": 0.00031685829162597656,
+      "validation": {
+        "size_match": true,
+        "location_match": true,
+        "tasks_match": true,
+        "price_reasonable": true,
+        "confidence_reasonable": true,
+        "overall_score": 1.0
+      },
+      "success": true,
+      "quote_summary": {
+        "quote_id": "DQ20250810160249",
+        "final_price": 4159.718125,
+        "confidence": 74.4
+      }
+    },
+    {
+      "scenario_name": "Standard Renovation",
+      "transcript": "4m² bathroom renovation with tiles, plumbing, and painting in Marseille",
+      "processing_time": 0.00012111663818359375,
+      "validation": {
+        "size_match": true,
+        "location_match": true,
+        "tasks_match": true,
+        "price_reasonable": true,
+        "confidence_reasonable": true,
+        "overall_score": 1.0
+      },
+      "success": true,
+      "quote_summary": {
+        "quote_id": "DQ20250810160249",
+        "final_price": 8263.900000000001,
+        "confidence": 80.6
+      }
+    },
+    {
+      "scenario_name": "Luxury Bathroom",
+      "transcript": "8m² luxury bathroom with premium tiles, smart plumbing, and electrical work in Paris",
+      "processing_time": 0.00011301040649414062,
+      "validation": {
+        "size_match": true,
+        "location_match": true,
+        "tasks_match": true,
+        "price_reasonable": true,
+        "confidence_reasonable": true,
+        "overall_score": 1.0
+      },
+      "success": true,
+      "quote_summary": {
+        "quote_id": "DQ20250810160249",
+        "final_price": 12590.265,
+        "confidence": 79.7
+      }
+    },
+    {
+      "scenario_name": "Complex Project",
+      "transcript": "6m² bathroom renovation with tiles, plumbing, painting, flooring, vanity, and electrical in Lyon",
+      "processing_time": 0.00013017654418945312,
+      "validation": {
+        "size_match": true,
+        "location_match": true,
+        "tasks_match": true,
+        "price_reasonable": true,
+        "confidence_reasonable": true,
+        "overall_score": 1.0
+      },
+      "success": true,
+      "quote_summary": {
+        "quote_id": "DQ20250810160249",
+        "final_price": 13417.76625,
+        "confidence": 75.2
+      }
+    },
+    {
+      "scenario_name": "Coastal Premium",
+      "transcript": "5m² premium bathroom renovation with natural stone tiles and luxury fixtures in Nice",
+      "processing_time": 0.00010013580322265625,
+      "validation": {
+        "size_match": true,
+        "location_match": true,
+        "tasks_match": true,
+        "price_reasonable": true,
+        "confidence_reasonable": true,
+        "overall_score": 1.0
+      },
+      "success": true,
+      "quote_summary": {
+        "quote_id": "DQ20250810160249",
+        "final_price": 9805.184375,
+        "confidence": 77.4
+      }
+    }
+  ]
+}

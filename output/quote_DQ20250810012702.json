@@ -1,0 +1,58 @@
+{
+  "quote_id": "DQ20250810012702",
+  "generated_at": "2025-08-10T01:27:02.671860",
+  "client_requirements": {
+    "bathroom_size": 4.0,
+    "location": "paris",
+    "tasks": [
+      "tiles",
+      "plumbing",
+      "painting"
+    ],
+    "budget_conscious": false,
+    "original_transcript": "4m² bathroom renovation with tiles and painting in Paris"
+  },
+  "pricing_breakdown": {
+    "tasks": [
+      {
+        "task": "tiles",
+        "materials": 1067.04,
+        "labor": 3012.75,
+        "total": 4079.79,
+        "city_multiplier": 1.3
+      },
+      {
+        "task": "plumbing",
+        "materials": 972.075,
+        "labor": 1287.0,
+        "total": 2259.075,
+        "city_multiplier": 1.3
+      },
+      {
+        "task": "painting",
+        "materials": 445.53600000000006,
+        "labor": 377.65000000000003,
+        "total": 823.1860000000001,
+        "city_multiplier": 1.3
+      }
+    ],
+    "labor_total": 4677.4,
+    "materials_total": 2484.651,
+    "vat_amount": 1432.42,
+    "subtotal": 7162.0509999999995,
+    "final_price": 10743.088749999999
+  },
+  "business_metrics": {
+    "confidence_score": 80.1,
+    "margin_percentage": 50.00017104039052,
+    "city_multiplier": 1.3,
+    "total_duration": 77.8,
+    "estimated_duration": 77.8
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "generated_by": "Donizo Smart Pricing Engine",
+    "algorithm_version": "2.1.0",
+    "last_updated": "2025-08-10T01:27:02.671874"
+  }
+}
